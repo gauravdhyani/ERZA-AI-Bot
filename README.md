@@ -3,7 +3,7 @@
 A Multipurpose Discord bot.
 
 
-![Logo](https://cdn.discordapp.com/attachments/962597684663947294/965243717659267092/download.jpeg)
+![Logo](https://drive.google.com/file/d/1rWbrGjs0vn2TelXURkY4eEh4pNtRib4l/view?usp=sharing)
 
 
 ## Features
